@@ -11,7 +11,7 @@ setuptools.setup(
     description="A small example about virtual assitant like Siri/ Google assistant",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/TrinhAnBinh/covid_vir_assistant",
+    url="https://github.com/TrinhAnBinh/covid_vir_assistant_ver_0.0.2",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
